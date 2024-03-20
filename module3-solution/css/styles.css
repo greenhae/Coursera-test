@@ -1,0 +1,80 @@
+body {
+  font-size: 16px;
+}
+
+
+
+/** HEADER **/
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border: 0;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  font-size: 1.5em;
+  color: black;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a, .navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#button_icon {
+  border: 2px solid black;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black; 
+    height: 3px; 
+}
+
+
+
+/** navbar-collapse **/
+
+.navbar-default .navbar-nav>li>a {
+  float: ;
+  width: 100%;
+  text-align: center;
+  border: 1px solid black;
+  padding: 4px;
+  color: black;
+}
+
+.navbar-collapse {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.navbar-nav {
+  margin: 0; 
+  width: 100%; 
+  background-color: white;
+}
+
+
+/** h1 and content **/
+h1 {
+  font-size: 1.5em;
+}
+
+.tall-section {
+  background-color: lightgrey; 
+  margin: 40px;
+  padding: 1px 20px 20px 20px;
+}
+
+.tall-section h2 {
+  margin-bottom: 20px; 
+  text-align: center;
+  font-size: 1.3em;
+}
+
+
