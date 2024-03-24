@@ -1,6 +1,7 @@
 # Coursera-test
 
 This repository contains all of the example source code used in the Coursera.org course called 
+
 HTML, CSS and Javascript for Web Developers.
 
 github assignment pages:
